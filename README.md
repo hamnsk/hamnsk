@@ -48,6 +48,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hamnsk&column=-1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamnsk)
+<center>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamnsk)</center>
 
 [website]: https://sergeyvisman.ru/
