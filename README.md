@@ -48,6 +48,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hamnsk&column=-1)
 
-<img align="center" alt="GitHub Streak" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=hamnsk)" />
+<img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamnsk" />
 
 [website]: https://sergeyvisman.ru/
