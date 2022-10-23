@@ -42,6 +42,7 @@
 
 ### Statistics:
 
+<details>
 <p align="center">
   <img alt="Hamnsk's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hamnsk" />
 </p>
@@ -57,5 +58,6 @@
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamnsk" />
 </p>
+</details>
 
 [website]: https://sergeyvisman.ru/
