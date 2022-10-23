@@ -40,9 +40,9 @@
 <br />
 <br />
 
-### Statistics:
 
 <details>
+  <summary>:zap: Statistics:</summary>
 <p align="center">
   <img alt="Hamnsk's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hamnsk" />
 </p>
