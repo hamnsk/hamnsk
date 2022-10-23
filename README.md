@@ -46,11 +46,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamnsk&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hamnsk&column=-1)
-
-<div style="text-align:center">
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamnsk" />
-</div>
+<p align="center">
+  <img alt="GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=hamnsk&column=-1" />
+</p>
 
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamnsk" />
