@@ -37,12 +37,11 @@
 <img align="left" alt="CentOS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" />
 
 <br />
+<br />
 
 ### Statistics:
 
-![Hamnsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamnsk)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamnsk&layout=compact)
+|![Hamnsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamnsk)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamnsk&layout=compact)|
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hamnsk)
 
