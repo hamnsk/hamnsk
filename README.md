@@ -31,7 +31,7 @@
 <img align="left" alt="Postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Nginx" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img align="left" alt="Grafana" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
-<img align="left" alt="Prometheus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />            <img align="left" alt="JetBrains" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+<img align="left" alt="Prometheus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />           <img align="left" alt="JetBrains" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 <img align="left" alt="AndroidStudio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Apple" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img align="left" alt="CentOS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" />
@@ -46,7 +46,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamnsk&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hamnsk)
+![trophy](https://github-profile-trophy.vercel.app/?username=hamnsk&column=-1)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamnsk)
 
