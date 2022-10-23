@@ -42,9 +42,13 @@
 
 ### Statistics:
 
-![Hamnsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamnsk)
+<p align="center">
+  <img alt="Hamnsk's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hamnsk" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamnsk&layout=compact)
+<p align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamnsk&layout=compact" />
+</p>
 
 <p align="center">
   <img alt="GitHub trophy" src="https://github-profile-trophy.vercel.app/?username=hamnsk&column=-1" />
