@@ -14,6 +14,8 @@
 
 [<img align="left" alt="sergeyvisman.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -34,6 +36,7 @@
 <img align="left" alt="Apple" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img align="left" alt="CentOS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" />
 
+<br />
 
 ### Statistics:
 
