@@ -52,4 +52,8 @@
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamnsk" />
 </div>
 
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamnsk" />
+</p>
+
 [website]: https://sergeyvisman.ru/
