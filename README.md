@@ -34,7 +34,8 @@
 <img align="left" alt="Apple" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img align="left" alt="CentOS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" />
 
-### Statistics
+
+### Statistics:
 
 ![Hamnsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamnsk)
 
